@@ -20,4 +20,8 @@ public class Lottery {
         }
         return winnings;
     }
+
+    public int getLotteryNumber() {
+        return lotteryNumber;
+    }
 }
